@@ -194,7 +194,9 @@ Deposit successful! New balance: 1000.00
 <img width="1817" height="652" alt="image" src="https://github.com/user-attachments/assets/97300c6b-7b55-41ad-beac-0fdbca118288" />
 <img width="1801" height="430" alt="image" src="https://github.com/user-attachments/assets/f74c4bdd-0ae0-471e-9272-c58d9b092e9a" />
 
-
+## Live Demo Screenshots:
+<img width="1920" height="972" alt="Screenshot streamlit" src="https://github.com/user-attachments/assets/93ace668-f151-410a-a522-52c64b5b2f6c" />
+<img width="1920" height="970" alt="STREAMLIT_@" src="https://github.com/user-attachments/assets/fb9a6099-0613-4335-a221-1a36e9c31373" />
 
 
 ---
