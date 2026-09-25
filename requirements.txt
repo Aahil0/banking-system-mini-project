@@ -1,0 +1,4 @@
+# This project only uses Python's built-in standard library
+# (random, datetime), so no external packages are required.
+#
+# No dependencies to install.
