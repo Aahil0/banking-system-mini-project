@@ -187,6 +187,12 @@ Enter your choice (1-7): 2
 Enter amount to deposit: 1000
 Deposit successful! New balance: 1000.00
 ```
+<img width="1787" height="857" alt="image" src="https://github.com/user-attachments/assets/e5a966ba-9010-428b-bf77-df264d38d2ba" />
+<img width="1817" height="652" alt="image" src="https://github.com/user-attachments/assets/97300c6b-7b55-41ad-beac-0fdbca118288" />
+<img width="1801" height="430" alt="image" src="https://github.com/user-attachments/assets/f74c4bdd-0ae0-471e-9272-c58d9b092e9a" />
+
+
+
 
 ---
 
