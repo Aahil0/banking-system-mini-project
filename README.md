@@ -1,4 +1,4 @@
-# 🏦 Banking System – Mini Project
+# Banking System – Mini Project
 
 A simple, menu-driven **Banking System** built in pure Python. This console
 application simulates the core operations of a bank: creating accounts,
@@ -10,7 +10,7 @@ real-world, functional application.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The Banking System allows a user to:
 - Create a new bank account with their name, phone number, and a PIN
@@ -25,7 +25,7 @@ duration of the program run — no external database is required.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature                     | Description                                             |
 |------------------------------|-----------------------------------------------------------|
@@ -41,7 +41,7 @@ duration of the program run — no external database is required.
 
 ---
 
-## 🐍 Python Concepts Used
+## Python Concepts Used
 
 - **Variables & Data Types** – strings, floats, booleans for account data
 - **Conditional Statements** – validating input, balance checks, PIN checks
@@ -55,7 +55,7 @@ duration of the program run — no external database is required.
 
 ---
 
-## 📦 Modules Used
+## Modules Used
 
 - **`random`** – generates a unique 6-digit account number for every new account
 - **`datetime`** – records the date and time of every transaction
@@ -65,7 +65,7 @@ is required**.
 
 ---
 
-## 🔄 Application Flow
+## Application Flow
 
 ```text
 CREATE ACCOUNT
@@ -93,7 +93,7 @@ Account Number + PIN
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 banking-system/
@@ -106,7 +106,7 @@ banking-system/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Requirements
 - Python 3.7 or higher (no external packages needed)
@@ -137,7 +137,7 @@ banking-system/
 
 ---
 
-## 💡 Example Usage
+## Example Usage
 
 ```
 =========================================
@@ -190,7 +190,7 @@ Deposit successful! New balance: 1000.00
 
 ---
 
-## 🛡️ Validation & Error Handling
+## Validation & Error Handling
 
 The application validates user input at every step and never crashes on bad
 input:
@@ -213,7 +213,7 @@ input:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Persist accounts to a file or database so data survives between runs
 - Hash/encrypt PINs instead of storing them in plain text
@@ -224,7 +224,7 @@ input:
 
 ---
 
-## 👤 Author
+##  Author
 
 Built as part of a Python mini-project assignment on core programming
 concepts (variables, conditionals, loops, functions, lists, dictionaries,
